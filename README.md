@@ -1,1 +1,1 @@
-# Slight-or-Fatal-Car-Accident-Predictor
+Implemented several machine learning algorithms including decision tree, random forest, K nearest neighbors, and voting classifier using both libraries and written code that predict whether a car accident will be fatal or minor based on various features in the dataset (Python, Scikit Learn) 
